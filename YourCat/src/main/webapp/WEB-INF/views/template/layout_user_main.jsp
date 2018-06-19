@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <tiles:insertAttribute name="layout.header" />
-<link rel="stylesheet" href="/cat/resources/css<tiles:getAsString name="layout.css" />.css">
+<link rel="stylesheet" href="/YourCat/resources/css<tiles:getAsString name="layout.css" />.css">
 <title><tiles:getAsString name="layout.title" /></title>
 </head>
 
